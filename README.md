@@ -1,13 +1,9 @@
 # Checkers
 ## Table of contents
 * [ENG](#English version)
-* [General info](#General info)
-* [Technologies](#Technologies)
-* [Inspiration](#Inpiration)
+
 * [PL](#Polska wersja)
-* [Opis projektu](#Krótki opis projektu)
-* [Wykorzystane technologie](#Wykorzystane technologie)
-* [Inspiracje](#Inpiracje)
+
 
 
 ## ENG
